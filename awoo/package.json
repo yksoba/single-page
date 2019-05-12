@@ -1,0 +1,7 @@
+{
+  "name": "awoo",
+  "description": "For when you just gotta awoo!",
+  "scripts": {
+      "build": "webpack"
+  }
+}
